@@ -7,6 +7,6 @@ Avoiding gists because notebooks are not supported, are they?
 
 ### To do
 
-* dictionary comprehensions
-* pathlib.Path
-* numpy.random.choice
+* `dictionary comprehensions`
+* `pathlib.Path`
+* `numpy.random.choice`
